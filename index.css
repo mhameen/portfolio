@@ -63,7 +63,7 @@ p{
 }
 .about{
     background-color: #9999;
-    height: 400px;
+    height: 450px;
     border-radius: 20px;
 }
 .bg2{
@@ -153,16 +153,16 @@ p{
     margin-bottom: 20px;
 }
 .project1{
-    margin: 25px;
+    margin: 15px;
 }
 .project2{
-    margin: 25px ;
+    margin: 15px ;
 }
 .project3{
-    margin: 25px ;
+    margin: 15px ;
 }
 .project4{
-    margin: 25px ;
+    margin: 15px ;
 }
 .headding4{
     font-family: 'Stalinist One', cursive;
