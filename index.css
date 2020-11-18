@@ -75,7 +75,7 @@ p{
 }
 .skills{
     list-style: none;
-    margin: 30px;
+    margin: 20px;
     color:black;
     font-size: 1.5rem;
 }
@@ -98,19 +98,19 @@ p{
 }
 .html{
     width:80%;
-    animation: html 2s;
+    animation: html 5s;
 }
 .css{
     width:60%;
-    animation: css 2s;
+    animation: css 5s;
 }
 .git{
     width:80% ;
-    animation: css 2s;
+    animation: css 5s;
 }
 .javascript{
     width: 20%;
-    animation: css 2s;
+    animation: css 5s;
 }
 
 @keyframes html{
@@ -156,7 +156,7 @@ p{
     margin: 20px auto;
 }
 .project2{
-    margin: 20px auto ;
+    margin: 20px auto;
 }
 .project3{
     margin: 20px auto;
